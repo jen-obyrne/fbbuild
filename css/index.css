@@ -1,0 +1,24 @@
+.lbp-logo {
+    height: 75px;
+    width: 75px;
+}
+
+.mainbanner {
+    position: relative;
+    text-align: center;
+}
+
+.mainbannertitle {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background:rgba(90,90,90, 0.8);
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 25px;
+    text-align: center;
+}
