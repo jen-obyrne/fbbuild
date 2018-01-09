@@ -40,3 +40,11 @@
   .card-text {
     font-size: 85%;
   }
+
+  .testimonial {
+    color: #21255D;
+  }
+
+  .testimonial-author {
+    font-style: italic;
+  }
