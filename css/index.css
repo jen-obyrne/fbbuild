@@ -124,6 +124,10 @@ li a:hover {
     margin-bottom: 40px;
   }
 
-  .less-space{
+  .less-space {
     min-height: 35rem;
+  }
+
+  .about-us-img { 
+    width: 50%;
   }
