@@ -131,3 +131,7 @@ li a:hover {
   .about-us-img { 
     width: 50%;
   }
+
+  .testimonial-text {
+    text-align: left;
+  }
