@@ -86,6 +86,11 @@ li a:hover {
     margin-bottom: .75rem;
     width: 100%;
   }
+
+  .card > a > img {
+    margin-bottom: .75rem;
+    width: 100%;
+  }
   
   .card-text {
     font-size: 85%;
