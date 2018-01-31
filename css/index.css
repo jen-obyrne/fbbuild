@@ -140,3 +140,11 @@ li a:hover {
   .testimonial-text {
     text-align: left;
   }
+
+  .gallery-title-no-bottom-padding {
+    padding-bottom: 0px;
+  }
+
+  .carousel-item > img {
+    width: 600px;
+  }
