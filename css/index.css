@@ -118,7 +118,6 @@ li a:hover {
 
   .contact-details { 
     text-align: center;
-
   }
 
   .contact-details .row {
@@ -137,7 +136,7 @@ li a:hover {
     width: 50%;
   }
 
-  .testimonial-text {
+  .left-aligned {
     text-align: left;
   }
 
@@ -145,6 +144,21 @@ li a:hover {
     padding-bottom: 0px;
   }
 
-  .carousel-item > img {
-    width: 600px;
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    background-image: none;
+  }
+  
+  .carousel-control-next-icon:after {
+    content: '>';
+    font-size: 35px;
+    color:rgba(90,90,90, 0.8);
+  }
+
+  .carousel-control-prev-icon:after {
+    content: '<';
+    font-size: 35px;
+    color:rgba(90,90,90, 0.8);
   }
