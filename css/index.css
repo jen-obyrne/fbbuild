@@ -162,3 +162,7 @@ li a:hover {
     font-size: 35px;
     color:rgba(90,90,90, 0.8);
   }
+  
+  figcaption {
+    font-weight: bold;
+  }
