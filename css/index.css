@@ -166,3 +166,18 @@ li a:hover {
   figcaption {
     font-weight: bold;
   }
+
+  .gallery-image a:link {
+    color: #868e96;
+    text-decoration: none;
+  }
+
+  .gallery-image a:visited {
+    color: #868e96;
+    text-decoration: none;
+  }
+
+  .gallery-image a:hover {
+    color: black;
+    text-decoration: none;
+  }
