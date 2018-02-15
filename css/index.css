@@ -136,6 +136,11 @@ li a:hover {
     width: 50%;
   }
 
+  .builders-association-logo{
+    max-height: 160px;
+    max-width: 85px;
+  }
+
   .left-aligned {
     text-align: left;
   }
