@@ -10,6 +10,14 @@
     font-size: x-large;
 }
 
+.nav-item {
+  margin-right: 5px;
+}
+
+.nar-bar-margin-left {
+ margin-left: 20%;
+}
+
 li.active a {
     font-weight: bold;
     color: white;
