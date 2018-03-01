@@ -14,8 +14,8 @@
   margin-right: 5px;
 }
 
-.nar-bar-margin-left {
- margin-left: 20%;
+.navbar-collapse {
+ margin-left: 10%;
 }
 
 li.active a {
