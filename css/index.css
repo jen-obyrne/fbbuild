@@ -161,6 +161,10 @@ li a:hover {
     padding-bottom: 0px;
   }
 
+  .carousel-item {
+    max-height: 860px;
+  }
+
   .carousel-control-prev-icon,
   .carousel-control-next-icon {
     height: 100px;
