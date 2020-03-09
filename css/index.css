@@ -161,7 +161,8 @@ li a:hover {
     padding-bottom: 0px;
   }
 
-  .carousel-item {
+  .carousel-item > img {
+    object-fit: scale-down;
     max-height: 860px;
   }
 
